@@ -1,0 +1,21 @@
+.elementor-218 .elementor-element.elementor-element-8931274 > .elementor-container{min-height:145px;}.elementor-218 .elementor-element.elementor-element-8931274 > .elementor-container:after{content:"";min-height:inherit;}.elementor-218 .elementor-element.elementor-element-8931274:not(.elementor-motion-effects-element-type-background), .elementor-218 .elementor-element.elementor-element-8931274 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#161616;}.elementor-218 .elementor-element.elementor-element-8931274{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 0px 0px 0px;}.elementor-218 .elementor-element.elementor-element-8931274 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-218 .elementor-element.elementor-element-2840f63 .elementor-image img{width:34%;}.elementor-218 .elementor-element.elementor-element-6bbeae1 > .elementor-container{max-width:500px;}.elementor-218 .elementor-element.elementor-element-6bbeae1:not(.elementor-motion-effects-element-type-background), .elementor-218 .elementor-element.elementor-element-6bbeae1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#161616;}.elementor-218 .elementor-element.elementor-element-6bbeae1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 0100px 0px 100px;}.elementor-218 .elementor-element.elementor-element-6bbeae1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-218 .elementor-element.elementor-element-ba54275.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-218 .elementor-element.elementor-element-ba54275 > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-218 .elementor-element.elementor-element-3272e4a{text-align:center;}.elementor-218 .elementor-element.elementor-element-3272e4a.elementor-widget-heading .elementor-heading-title{color:#ffffff;}.elementor-218 .elementor-element.elementor-element-3272e4a .elementor-heading-title{font-family:"Montserrat", Sans-serif;font-size:20px;}.elementor-218 .elementor-element.elementor-element-02ed89e > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 40px 0px;}#elementor-popup-modal-218 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-218{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-218 .dialog-close-button{display:block;font-size:22px;}#elementor-popup-modal-218 .dialog-close-button i{color:#ffffff;}@media(max-width:767px){.elementor-218 .elementor-element.elementor-element-6bbeae1{padding:30px 30px 30px 30px;}}/* Start custom CSS for html, class: .elementor-element-02ed89e */.button-form-lancer{
+    background-color: #8300ff;
+    color: #161616;
+    font-weight: 800;
+    font-family: Montserrat;
+    font-size: 20px;
+    border-radius: 10px 10px 10px 10px;
+    border: none;
+}
+
+.button-form-lancer:hover{
+    background-color: #7503e0;
+    color: #161616;
+}
+
+@media only screen and (max-width: 600px) {
+    .button-form-lancer{
+        width: 100%;
+        font-size: 19px;
+    }
+}/* End custom CSS */
